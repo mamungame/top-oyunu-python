@@ -1,3 +1,5 @@
+#ben bunu bir baş ka youtbe kanalına bakarakmaptım uzun surdu birtık hata yapmışım youtbein yaptığı gibi yapmadığım yerleri düzeltim
+#link https://www.youtube.com/watch?v=oBqhGuE3tFA&t=1084s
 # top-oyunu-python
 import turtle, winsound
 print("hello")
